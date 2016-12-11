@@ -12,13 +12,13 @@
 Import it with:
 
 ```go
-import "github.com/bibinbin/bstkbutler"
+import "github.com/farmerx/bstkbutler"
 ```
 and use `pool` as the package name inside the code.
 
 ```go
 import (
-  bstk "github.com/bibinbin/bstkbutler"
+  bstk "github.com/farmerx/bstkbutler"
 )
 ```
 
@@ -31,7 +31,7 @@ import (
 
 	"fmt"
 
-	"github.com/bibinbin/bstkbutler"
+	"github.com/farmerx/bstkbutler"
 )
 
 func main() {
